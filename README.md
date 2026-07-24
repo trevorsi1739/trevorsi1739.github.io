@@ -1,3 +1,3 @@
-# SosyalTR
+# Profilim
 
-Türkiye'nin en iyi sosyal ağı
+Ücretsiz profilinizi oluşturun!
