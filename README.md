@@ -1,3 +1,0 @@
-# Profilim
-
-Ücretsiz profilinizi oluşturun!
